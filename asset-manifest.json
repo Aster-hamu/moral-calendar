@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moral-calendar/static/css/main.64f8e45f.css",
+    "main.js": "/moral-calendar/static/js/main.edd640e7.js",
+    "static/js/453.3299490d.chunk.js": "/moral-calendar/static/js/453.3299490d.chunk.js",
+    "index.html": "/moral-calendar/index.html",
+    "main.64f8e45f.css.map": "/moral-calendar/static/css/main.64f8e45f.css.map",
+    "main.edd640e7.js.map": "/moral-calendar/static/js/main.edd640e7.js.map",
+    "453.3299490d.chunk.js.map": "/moral-calendar/static/js/453.3299490d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f8e45f.css",
+    "static/js/main.edd640e7.js"
+  ]
+}
